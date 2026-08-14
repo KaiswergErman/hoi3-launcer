@@ -1,1 +1,0 @@
-# hoi3-launcer
